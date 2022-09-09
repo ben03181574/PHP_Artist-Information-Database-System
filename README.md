@@ -1,4 +1,5 @@
 # PHP_Artist-Information-Database-System
+A DBMS to record for th Artists' information
 
 ## 網頁家構圖:
 ![網頁架構圖](https://user-images.githubusercontent.com/61927641/189306495-3966de37-04c7-4460-88aa-ad74781623fe.png)
